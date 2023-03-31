@@ -1,0 +1,22 @@
+
+.card.flex-row.flex-wrap {
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    border: solid rgb(211, 201, 197) 3px;
+}
+
+i {
+    padding: 5px;
+    margin-left: 5px;
+} 
+.card-title1{
+    font-weight: bold;
+}
+
+
+
+
+

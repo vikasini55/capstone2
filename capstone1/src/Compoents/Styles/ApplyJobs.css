@@ -1,0 +1,45 @@
+.errmsg {
+    color:red;
+}
+
+.container{
+    margin-top: 55px;
+   
+    margin-bottom:65px;
+    
+    
+}
+
+.card-header{
+    text-align: center;
+}
+
+
+#apply-btn1 {
+    text-align: center;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+
+
+h2{
+    font-weight: bold;
+    color:rgb(7, 36, 99);
+}
+
+
+.bg {
+    
+    background-image: url("/src/Compoents/Images/image4.webp");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+      }
+    .one{
+        color:black
+    }
